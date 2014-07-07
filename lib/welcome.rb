@@ -1,7 +1,7 @@
 class Welcome
-	attr_accessor :message
+  attr_accessor :message
 
-	def initialize
-		@message = "Welcome to ruby"
-	end
+  def initialize
+    @message = "Welcome to ruby"
+  end
 end
