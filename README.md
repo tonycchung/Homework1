@@ -1,7 +1,9 @@
-Understanding Agile, Understanding Testing, and Project Management Tool Setup and First Stories
-===
+#Practice with Agile, Texting, User Stories
 
-This project allowed me to accomplish the following goals:
+By [Tony Chung](https://github.com/tonycchung)
+
+
+This project was a learning exercise for some of the following basics in Rails:
 
 BDD practice.
 
