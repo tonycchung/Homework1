@@ -2,7 +2,6 @@
 
 By [Tony Chung](https://github.com/tonycchung)
 
-===
 
 This project was a learning exercise for some of the following basics in Rails:
 
